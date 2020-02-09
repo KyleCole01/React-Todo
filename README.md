@@ -39,7 +39,7 @@ We're going to practice building a stateful class component with this project. E
 
 #### Instructions
 
-- **Don't focus on styling yet**. We want you to worry about function over form today.
+[x] **Don't focus on styling yet**. We want you to worry about function over form today.
 - Your todo list should display a list of todos, an input field, a submit button, and a clear all button.
 - Be sure to use the given files for building out these components.
 - `<App />` will hold all the data needed for this project. It will also be the container for your Todo Components.
